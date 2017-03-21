@@ -1,0 +1,1 @@
+€¡ùV<?php exit; ?>a:1:{s:7:"content";s:304:"[{"message":"Yoast SEO se ha actualizado a la versi\u00f3n 3.1.2. \u00a1<a href=\"http:\/\/www.fitcuba.com\/wp-admin\/admin.php?page=wpseo_dashboard&intro=1\">Pulse aqu\u00ed<\/a> para averiguar las novedades!","options":{"type":"updated","id":"wpseo-dismiss-about","nonce":"6cbe1f7c4f","data_json":[]}}]";}

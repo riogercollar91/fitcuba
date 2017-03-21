@@ -1,0 +1,549 @@
+<site>
+ <posts />
+ <pages>
+  <page author="" caption="FIT CUBA" dateModified="10/07/2015 13:47:33" description="" keywords="" metaTags="" name="fit-cuba" path="/fit-cuba" showInHmenu="True" showInVmenu="False" showTitle="False" title="" titleInBrowser="Fit Cuba">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pages>
+    <page author="" caption="PRESENTACIÓN" dateModified="10/06/2015 15:43:55" description="" keywords="" metaTags="" name="presentacion" path="/fit-cuba/presentacion" showInHmenu="True" showInVmenu="False" showTitle="True" title="Bienvenidos a FITCuba 2015" titleInBrowser="Presentación">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="FICHA TÉCNICA" dateModified="10/06/2015 09:41:10" description="" keywords="" metaTags="" name="ficha-tecnica" path="/fit-cuba/ficha-tecnica" showInHmenu="True" showInVmenu="False" showTitle="True" title="Ficha Técnica" titleInBrowser="Ficha Técnica">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;/p&gt;&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="250"&gt;Fecha:&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;5 - 7 de mayo de 2015&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Edición: &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Trigésimo Quinta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Periodicidad:&lt;/td&gt;
+&lt;td&gt;Anual&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Carácter:&lt;/td&gt;
+&lt;td&gt;Profesional&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Jornada Profesional: del 5 al 7 de mayo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Ámbito:&lt;/td&gt;
+&lt;td&gt;Internacional&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Sector:&lt;/td&gt;
+&lt;td&gt;Turismo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Participantes:&lt;/td&gt;
+&lt;td&gt;Líneas Aéreas, Turoperadores, Agencias de Viajes, Medios de 
+Comunicación, Compañías Hoteleras, Compañías de Transporte, Entidades 
+del Ministerio de Turismo de Cuba, Empresas de servicios, Asociaciones 
+profesionales afines, Hombres de Negocio, Proveedores de servicios de 
+golf, de servicios y productos de aseguramiento al turismo, Empresas de 
+servicio aeroportuario, Transportistas marítimos y terrestres, Empresas 
+de tecnología, Empresas de Turismo de Salud, Hostales y paladares y 
+Entidades dedicadas a la formación profesional.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Sede:&lt;/td&gt;
+&lt;td&gt;Jardines del Rey&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Recinto Ferial:&lt;/td&gt;
+&lt;td&gt;Meliá Jardines del Rey&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Receptivo:&lt;/td&gt;
+&lt;td&gt;Agencia de Viajes Cubanacán&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Transportistas Oficiales:&lt;/td&gt;
+&lt;td&gt;Transtur, Cubana de Aviación, Copa Conventions y Aerogaviota&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Mercado al que se dedica la Feria:&lt;/td&gt;
+&lt;td&gt;Italia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Producto a presentar:&lt;/td&gt;
+&lt;td&gt;Náutico&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;/p&gt;&lt;table width="100%"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="250"&gt;Fecha:&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;5 - 7 de mayo de 2015&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Edición: &amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Trigésimo Quinta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Periodicidad:&lt;/td&gt;
+&lt;td&gt;Anual&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Carácter:&lt;/td&gt;
+&lt;td&gt;Profesional&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;Jornada Profesional: del 5 al 7 de mayo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Ámbito:&lt;/td&gt;
+&lt;td&gt;Internacional&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Sector:&lt;/td&gt;
+&lt;td&gt;Turismo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Participantes:&lt;/td&gt;
+&lt;td&gt;Líneas Aéreas, Turoperadores, Agencias de Viajes, Medios de 
+Comunicación, Compañías Hoteleras, Compañías de Transporte, Entidades 
+del Ministerio de Turismo de Cuba, Empresas de servicios, Asociaciones 
+profesionales afines, Hombres de Negocio, Proveedores de servicios de 
+golf, de servicios y productos de aseguramiento al turismo, Empresas de 
+servicio aeroportuario, Transportistas marítimos y terrestres, Empresas 
+de tecnología, Empresas de Turismo de Salud, Hostales y paladares y 
+Entidades dedicadas a la formación profesional.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Sede:&lt;/td&gt;
+&lt;td&gt;Jardines del Rey&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Recinto Ferial:&lt;/td&gt;
+&lt;td&gt;Meliá Jardines del Rey&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Receptivo:&lt;/td&gt;
+&lt;td&gt;Agencia de Viajes Cubanacán&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Transportistas Oficiales:&lt;/td&gt;
+&lt;td&gt;Transtur, Cubana de Aviación, Copa Conventions y Aerogaviota&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Mercado al que se dedica la Feria:&lt;/td&gt;
+&lt;td&gt;Italia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;Producto a presentar:&lt;/td&gt;
+&lt;td&gt;Náutico&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="PROGRAMA" dateModified="10/06/2015 09:42:56" description="" keywords="" metaTags="" name="programa" path="/fit-cuba/programa" showInHmenu="True" showInVmenu="False" showTitle="True" title="Programa" titleInBrowser="Programa">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="ACREDITACIÓN" dateModified="10/06/2015 15:44:10" description="" keywords="" metaTags="" name="acreditacion" path="/fit-cuba/acreditacion" showInHmenu="True" showInVmenu="False" showTitle="True" title="Acreditación" titleInBrowser="Acreditación">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="http://www.viajescubanacan.cu/index.php/formulario/formulario-fitcuba" class="art-button"&gt;RESERVE AQUÍ&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="http://www.viajescubanacan.cu/index.php/formulario/formulario-fitcuba" class="art-button"&gt;RESERVE AQUÍ&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="SEDE" dateModified="10/06/2015 09:48:26" description="" keywords="" metaTags="" name="sede" path="/fit-cuba/sede" showInHmenu="True" showInVmenu="False" showTitle="True" title="Sede" titleInBrowser="Sede">
+     <pageHead></pageHead>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        &lt;p&gt;&lt;img width="984" height="594" alt="" class="art-lightbox" src="./images/jardines-del-rey-espanol.jpg"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        &lt;p&gt;&lt;img width="983" height="512" alt="" class="art-lightbox" src="./images/MAPA-SEDE-FITCUBA.jpg"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;img width="984" height="594" alt="" class="art-lightbox" src="jardines-del-rey-espanol.jpg"&gt;&lt;br&gt;&lt;/p&gt;</content>
+       <content>&lt;p&gt;&lt;img width="983" height="512" alt="" class="art-lightbox" src="MAPA-SEDE-FITCUBA.jpg"&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="ORGANIZADORES" dateModified="10/05/2015 15:13:16" description="" keywords="" metaTags="" name="organizadores" path="/fit-cuba/organizadores" showInHmenu="True" showInVmenu="False" showTitle="True" title="Organizadores" titleInBrowser="Organizadores">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="PARQUE TURÍSTICO" dateModified="10/05/2015 15:13:35" description="" keywords="" metaTags="" name="parque-turistico" path="/fit-cuba/parque-turistico" showInHmenu="True" showInVmenu="False" showTitle="True" title="Parque Turístico" titleInBrowser="Parque Turístico">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="HISTORIA" dateModified="10/06/2015 15:44:23" description="" keywords="" metaTags="" name="historia" path="/fit-cuba/historia" showInHmenu="True" showInVmenu="False" showTitle="True" title="Una cita para el turismo profesional" titleInBrowser="Historia">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="EXPOSITORES" dateModified="10/05/2015 15:47:21" description="" keywords="" metaTags="" name="expositores" path="/expositores" showInHmenu="True" showInVmenu="False" showTitle="False" title="" titleInBrowser="Expositores">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pages>
+    <page author="" caption="CONTRATACIÓN ESPACIO" dateModified="10/06/2015 15:44:35" description="" keywords="" metaTags="" name="contratacion-espacio" path="/expositores/contratacion-espacio" showInHmenu="True" showInVmenu="False" showTitle="True" title="Contratación Espacio" titleInBrowser="Contratación Espacio">
+     <pageHead></pageHead>
+     <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        &lt;p&gt;&lt;img width="982" height="593" alt="" class="art-lightbox" src="./images/jardines-del-rey-boulevard-promocional.jpg"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        &lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;img width="684" height="494" alt="" class="art-lightbox" src="./images/STAND%20MODULAR.jpg"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        &lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;img width="982" height="593" alt="" class="art-lightbox" src="jardines-del-rey-boulevard-promocional.jpg"&gt;&lt;br&gt;&lt;/p&gt;</content>
+       <content>&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;img width="684" height="494" alt="" class="art-lightbox" src="STAND%20MODULAR.jpg"&gt;&lt;br&gt;&lt;/p&gt;</content>
+       <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="STAND" dateModified="10/06/2015 15:44:40" description="" keywords="" metaTags="" name="stand" path="/expositores/stand" showInHmenu="True" showInVmenu="False" showTitle="True" title="Stand" titleInBrowser="Stand">
+     <pageHead></pageHead>
+     <content>&lt;p style="text-align: left;"&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p style="text-align: left;"&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="AGENDA DEL EXPOSITOR" dateModified="10/05/2015 15:15:26" description="" keywords="" metaTags="" name="agenda-del-expositor" path="/expositores/agenda-del-expositor" showInHmenu="True" showInVmenu="False" showTitle="True" title="Agenda del Expositor" titleInBrowser="Agenda del Expositor">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="CONTACTOS" dateModified="10/06/2015 10:36:05" description="" keywords="" metaTags="" name="contactos" path="/expositores/contactos" showInHmenu="True" showInVmenu="False" showTitle="True" title="Contactos" titleInBrowser="Contactos">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="GALERÍA" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="galeria" path="/galeria" showInHmenu="True" showInVmenu="False" showTitle="False" title="Página Nueva" titleInBrowser="Galería">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pages>
+    <page author="" caption="IMÁGENES" dateModified="10/05/2015 15:15:40" description="" keywords="" metaTags="" name="imagenes" path="/galeria/imagenes" showInHmenu="True" showInVmenu="False" showTitle="False" title="" titleInBrowser="Imágenes">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="VIDEOS" dateModified="10/05/2015 15:15:30" description="" keywords="" metaTags="" name="videos" path="/galeria/videos" showInHmenu="True" showInVmenu="False" showTitle="True" title="FIT Cuba 2014" titleInBrowser="Viideo">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="ACREDITACIÓN EN LÍNEA" dateModified="10/06/2015 11:31:27" description="" keywords="" metaTags="" name="acreditacion-en-linea" path="/acreditacion-en-linea" showInHmenu="True" showInVmenu="False" showTitle="True" title="Acreditación en línea" titleInBrowser="Acreditación en línea">
+   <pageHead></pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        &lt;div class="page-header"&gt;
+         		&lt;h2&gt;&lt;span style="color: rgb(48, 63, 80); font-size: 14px; line-height: 24px;"&gt;La cuota de inscripción es de 50.00 CUC e incluye:&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;
+        &lt;p&gt;- Acreditación&lt;br&gt;- Asistencia personalizada en los aeropuertos.&lt;br&gt;- Participación en la inauguración oficial, sesiones de trabajo y&amp;nbsp; principales actividades de la feria.&lt;br&gt;- Carpeta y materiales de trabajo FITCuba 2015.&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.viajescubanacan.cu/index.php/formulario/formulario-fitcuba" class="art-button"&gt;RESERVER AQUÍ&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;div class="page-header"&gt;
+ 		&lt;h2&gt;&lt;span style="color: rgb(48, 63, 80); font-size: 14px; line-height: 24px;"&gt;La cuota de inscripción es de 50.00 CUC e incluye:&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;
+&lt;p&gt;- Acreditación&lt;br&gt;- Asistencia personalizada en los aeropuertos.&lt;br&gt;- Participación en la inauguración oficial, sesiones de trabajo y&amp;nbsp; principales actividades de la feria.&lt;br&gt;- Carpeta y materiales de trabajo FITCuba 2015.&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.viajescubanacan.cu/index.php/formulario/formulario-fitcuba" class="art-button"&gt;RESERVER AQUÍ&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Inicio" dateModified="10/06/2015 11:20:44" description="" keywords="" metaTags="" name="inicio" path="/inicio" showInHmenu="False" showInVmenu="False" showTitle="False" title="Página Nueva" titleInBrowser="Inicio">
+   <pageHead></pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="FAQS" dateModified="10/06/2015 15:45:05" description="" keywords="" metaTags="" name="faqs" path="/faqs" showInHmenu="False" showInVmenu="False" showTitle="True" title="FAQS" titleInBrowser="Faqs">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Mapa del Sitio" dateModified="10/05/2015 15:17:41" description="" keywords="" metaTags="" name="mapa-del-sitio" path="/mapa-del-sitio" showInHmenu="False" showInVmenu="False" showTitle="False" title="" titleInBrowser="Mapa del Sitio">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Contacto" dateModified="10/05/2015 15:17:56" description="" keywords="" metaTags="" name="contacto" path="/contacto" showInHmenu="False" showInVmenu="False" showTitle="True" title="Contacto" titleInBrowser="Contacto">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Pais Invitado" dateModified="10/06/2015 15:45:12" description="" keywords="" metaTags="" name="pais-invitado" path="/pais-invitado" showInHmenu="False" showInVmenu="False" showTitle="True" title="Italia" titleInBrowser="País invitado">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Destino" dateModified="10/06/2015 15:45:18" description="" keywords="" metaTags="" name="destino" path="/destino" showInHmenu="False" showInVmenu="False" showTitle="True" title="Cayo Coco y Cayo Guillermo. La ruta de Hemingway" titleInBrowser="Destino">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Producto" dateModified="10/06/2015 15:45:24" description="" keywords="" metaTags="" name="producto" path="/producto" showInHmenu="False" showInVmenu="False" showTitle="True" title="Náutico" titleInBrowser="Producto">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;span style="font-weight: bold;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Noticias" dateModified="10/05/2015 15:21:27" description="" keywords="" metaTags="" name="noticias" path="/noticias" showInHmenu="False" showInVmenu="False" showTitle="True" title="La Sucursal Caracol de Ciego de Ávila tiene previstas las siguientes actividades" titleInBrowser="Noticias">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="content-before">
+   <block name="text-2" position="0" title="Nuevo Bloque 2">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+  <sidebar caption="" name="content-after">
+   <block name="text" position="0" title="Nuevo Bloque">
+    <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+ </sidebars>
+ <collages />
+</site>
